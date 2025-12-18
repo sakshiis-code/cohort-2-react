@@ -1,0 +1,11 @@
+Library.
+
+- GSAP (moving animation)
+- Lenis (Scrolling smoothness)
+- swiper (sliders)
+- three (3D)
+- Reactjs
+
+
+React - UI banana
+ReactDOM - React and DOM ko connect karna
